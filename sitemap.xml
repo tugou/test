@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
   <url>
-    <loc>https://raw.github.com/tugou/test_project-tugou/master/README.md</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>https://tugou.github.io/test_project-tugou/</loc>
   </url>
   <url>
-    <loc>https://raw.github.com/tugou/test_project-tugou/master/sitemap.xml</loc>
-    <lastmod>2018-06-04</lastmod>
+    <loc>https://tugou.github.io/test_project-tugou/README.md</loc>
   </url>
 </urlset>
