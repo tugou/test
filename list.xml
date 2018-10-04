@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-   <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-   <sitemap>
-      <loc>https://raw.githubusercontent.com/tugou/test_project-tugou/README.md</loc>
-      <lastmod>2008-10-01T18:23:17+00:00</lastmod>
-   </sitemap>
-   <sitemap>
-      <loc>https://raw.githubusercontent.com/tugou/test_project-tugou</loc>
-      <lastmod>2008-01-01</lastmod>
-   </sitemap>
-   </sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://raw.githubusercontent.com/tugou/test_project-tugou/README.md</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+  <url>
+    <loc>https://github.com/tugou/test_project-tugou/blob/master/README.md</loc>
+    <lastmod>2018-06-04</lastmod>
+  </url>
+</urlset>
